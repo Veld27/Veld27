@@ -6,3 +6,5 @@ Meu Nome é Gilvan Fernandes
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact:Vou ser Professor ksksksks
 -  Se Quiser perguntar Mais Sobre:@megadays27
+- estou programando com javascript
+- sou utilizador do alura
